@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\bin\Debug\net6.0\minmax.exe
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\bin\Debug\net6.0\minmax.deps.json
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\bin\Debug\net6.0\minmax.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\bin\Debug\net6.0\minmax.dll
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\bin\Debug\net6.0\minmax.pdb
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.dll
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\refint\minmax.dll
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.pdb
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\minmax.genruntimeconfig.cache
+D:\Kuliah\Semester 2\Pemrograman\minmax\minmax\obj\Debug\net6.0\ref\minmax.dll
